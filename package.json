@@ -1,0 +1,15 @@
+{
+  "name": "query-filter-module",
+  "version": "0.0.3",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": ["src"],
+  "keywords": ["filter", "query", "mongodb"],
+  "author": "Xerion Team",
+  "license": "ISC",
+  "description": "Universal query filter for MongoDB with TypeScript support",
+  "devDependencies": {
+    "@types/node": "^24.0.10",
+    "typescript": "^5.0.0"
+  }
+}
