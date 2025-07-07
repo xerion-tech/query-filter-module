@@ -3,7 +3,7 @@
   "version": "0.0.3",
   "main": "index.js",
   "types": "index.d.ts",
-  "files": ["src"],
+  "files": ["index.js", "index.d.ts", "src"],
   "keywords": ["filter", "query", "mongodb"],
   "author": "Xerion Team",
   "license": "ISC",
